@@ -1,5 +1,9 @@
 # Back-End-Project-CarDealerShip-
-Bir Back-End projesidir.
-Katmanlı Mimari kullanılmıştır.
-WebApi Kullanılmıştır.
+Katmanlı mimari kullanarak yapmış olduğum Back-End projesidir.
+
+Code-First
+Generic Yapı
+Web API
+Validations
+CRUD işlemleri
 
